@@ -39,7 +39,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-show_excerpts: true
+show_excerpts: false
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
@@ -52,5 +52,3 @@ show_excerpts: true
 #   - vendor/gems/
 #   - vendor/ruby/
 
-permalink: /:slugified_categories/:title
-excerpt_separator: <!-- excerpt-end -->
