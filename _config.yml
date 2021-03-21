@@ -53,4 +53,4 @@ show_excerpts: true
 #   - vendor/ruby/
 
 permalink: /:slugified_categories/:title
-# excerpt_separator: <!-- excerpt-end -->
+excerpt_separator: <!-- excerpt-end -->
