@@ -23,7 +23,7 @@ email: riyasingh813@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This can be your landing page for your weekly updates and learning
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://twitchytongue.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
 
@@ -39,7 +39,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-show_excerpts: true
+show_excerpts: false
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
@@ -51,6 +51,3 @@ show_excerpts: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-permalink: /:slugified_categories/:title
-excerpt_separator: <!-- excerpt-end -->
