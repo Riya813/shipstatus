@@ -21,7 +21,7 @@
 title: Twitchy Tongue
 email: twitchytongue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  All recent information you need to know about Suez canal #suezcrisis
+  All the latest information you need to know about Suez canal and the Suez Crisis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://twitchytongue.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
