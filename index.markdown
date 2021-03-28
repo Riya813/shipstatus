@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 'What is the status of ship at Suez Canal?'
 ---
 
 
-<h1>What is the status of ship at Suez Canal?</h1>
 <h1 class="orange">Stuck</h1>
 <script>var mst_width="100%";var mst_height="350px";var mst_border="0";var mst_map_style="simple";var mst_mmsi="353136000";var mst_show_track="false";var mst_show_info="true";var mst_fleet="";var mst_lat="";var mst_lng="";var mst_zoom="";var mst_show_names="1";var mst_scroll_wheel="true";var mst_show_menu="true";</script><script id="myshiptrackingscript" src="//www.myshiptracking.com/js/widgetApi.js" async defer></script>
 <ul class="update-list">
