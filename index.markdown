@@ -12,7 +12,7 @@ layout: home
 <ul class="update-list">
     <li>
         <a href="https://www.bbc.com/news/world-middle-east-56547383">8hrs ago:</a>
-        Effort to refloat are undergoing
+        Effort to steer and refloat are on-going
     </li>
     <li>
         <a href="http://newsonair.com/News?title=Giant-container-ship-remains-stuck-across-Egypt%26%2339%3Bs-Suez-Canal&id=413016">12hrs ago:</a>
