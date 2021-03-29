@@ -7,7 +7,7 @@ title: 'What is the status of ship at Suez Canal?'
 ---
 
 
-<h1 class="orange">Almost freed</h1>
+<h1 class="green">Free and moving</h1>
 <script type="text/javascript">
     // Map appearance
     var width="100%";         // width in pixels or percentage
@@ -22,7 +22,11 @@ title: 'What is the status of ship at Suez Canal?'
 <!-- <script>var mst_width="100%";var mst_height="350px";var mst_border="0";var mst_map_style="simple";var mst_mmsi="353136000";var mst_show_track="false";var mst_show_info="true";var mst_fleet="";var mst_lat="";var mst_lng="";var mst_zoom="";var mst_show_names="1";var mst_scroll_wheel="true";var mst_show_menu="true";</script><script id="myshiptrackingscript" src="//www.myshiptracking.com/js/widgetApi.js" async defer></script> -->
 <ul class="update-list">
     <li>
-        <a href="https://www.bbc.com/news/world-middle-east-56559904">29th Mar 11am:</a>
+        <a href="https://www.bbc.com/news/world-middle-east-56559904">29th Mar 9pm:</a>
+        The ship is finally free and moving to its transit route.
+    </li>
+    <li>
+        <a href="https://www.bbc.com/news/world-middle-east-56559904">29th Mar 1pm:</a>
         The stern of a huge container ship that has been wedged across the Suez Canal for almost a week has been freed from the shoreline. Course correction by almost 80%.
     </li>
     <li>
